@@ -10,3 +10,6 @@ Description: Take a perilous journey from one kingdom to the other, filled with 
 As of 30 January 2022, the bot is public and can be added to Discord servers.
 
 Contact Alexis Dougherty at alexisdougherty@ufl.edu or https://discord.gg/VwJ5BhZpFb for more information.
+
+
+Note: Literary, game, and movie references appear in project. I do not own anything related to them. If something seems familiar, it probably is. 
